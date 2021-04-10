@@ -4,19 +4,19 @@ Our project is about making a web-app with DB which makes people easier to find 
 
 Pre-requisite: Xampp App.
 
-1.) Admin
+1) Admin
 •	Update manager details
 •	Update hotel details
 •	Update rooms
 •	View manager details
 •	View hotels
 
-2.) Manager
+2) Manager
 •	Update details of particular hotel
 •	View hotel details
 •	View rooms
 
-3.) Client
+3) Client
 •	Login and Sign up
 •	View hotels
 •	View room details
