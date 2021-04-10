@@ -1,0 +1,4 @@
+import base64
+s=str(input("enter your text"))
+encoded_data = base64.b64encode(s)
+print(encoded_data)
